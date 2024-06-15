@@ -8,4 +8,4 @@
 
 Put your tokens in tokens.txt for the spammer to work.
 
-(CREDS TO VISION "Vision60420" he made this, only updated the read me)
+(CREDS TO VISION "Vision69420" he made this, only updated the read me)
