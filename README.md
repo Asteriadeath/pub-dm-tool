@@ -1,4 +1,8 @@
-1 Install python if u dont have it
-2 Run Install.bat
+1 Have python ready, if not update it if you havent already and/or install python.
+
+2 Run/open Install.bat
+
 3 Run Start.bat
-4 Dm spam the fuck outta whoever you want
+
+4 DM spam the fuck outta whoever you want
+
