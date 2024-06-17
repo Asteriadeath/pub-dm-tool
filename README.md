@@ -8,7 +8,6 @@
 
 4 DM spam the fuck outta whoever you want
 
-
 5. Put your tokens in tokens.txt for the spammer to work.
 
 
